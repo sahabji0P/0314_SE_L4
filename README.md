@@ -1,6 +1,6 @@
 # Software Engineering Assignment Lab 4
 
-<img src="https://i.pinimg.com/originals/38/27/ab/3827ab69c03f02d43dcd7b4c659464a7.gif" align="right" alt="Flight" width="350">
+<img src="https://i.pinimg.com/originals/38/27/ab/3827ab69c03f02d43dcd7b4c659464a7.gif" align="right" alt="Flight" width="300">
 
 <h2>
 Question: Write a Python program to search and print the result data of the table below.
